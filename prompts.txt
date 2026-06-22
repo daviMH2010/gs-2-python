@@ -1,0 +1,4 @@
+eu sou um estudante de engenharia de software no inicio do segundo periodo e vou entregar um trabalho de python, o objetivo é fazer um motor lógico para agendamento de peneira e eu preciso que você faça o README.md, faça ele detalhado com base no código a seguir, conste o loguin dos funcionários para que a pessoa testando o motor possa logar como funcionário e tambem cite que para o cadastro aparecer nos primeiros times ele deve escolher a posição de centro avante segue o código:
+*arquivo com o código
+
+aponte os erros ortograficos e crie contas de jogadores de teste, faça dois de cada posiçao, de cada genero, tirando o centro avante tirando o centro avante
